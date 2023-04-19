@@ -1,1 +1,1 @@
-# a-Peer-to-Peer-P2P-lending-system
+# A Peer to Peer P2P lending-system in solidity
